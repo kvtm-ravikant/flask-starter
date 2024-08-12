@@ -1,0 +1,6 @@
+domains:
+- flask-starter-kvtm-ravikant.wasmer.app
+kind: wasmer.io/App.v0
+name: ravikantaryan-flask-starter
+owner: ravikantaryan
+package: .
